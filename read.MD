@@ -1,11 +1,11 @@
-### Dosa Shop
+# Dosa Shop
 
-# oil added
+* oil added
 
-# extra roast
+* extra roast
 
-# onions added
-# main
+* onions added
+* main
 
 
 # karam dosa
